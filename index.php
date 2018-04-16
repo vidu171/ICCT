@@ -32,7 +32,7 @@
       <link rel='stylesheet' id='widget_cart_search_scripts-css'  href='themes/inc/widgets/widgetsd714.css?ver=4.7.10' type='text/css' media='all' />
       <link rel='stylesheet' id='core-css'  href='plugins/simple-subscribe/assets/styleFrontEndd714.css?ver=4.7.10' type='text/css' media='all' />
       <link rel='stylesheet' id='js_composer_front-css'  href='plugins/js_composer/assets/css/js_composer.min0147.css?ver=4.12' type='text/css' media='all' />
-      <link rel='stylesheet' id='js_composer_custom_css-css'  href='uploads/js_composer/custom0147.css?ver=4.12' type='text/css' media='all' />
+      <link rel='stylesheet' id='js_composer_custom_css-css'  href='js/js_composer/custom0147.css?ver=4.12' type='text/css' media='all' />
       <link rel='stylesheet' id='redux-google-fonts-smof_data-css'  href='http://fonts.googleapis.com/css?family=Lato%3A100%2C300%2C400%2C700%2C900%2C100italic%2C300italic%2C400italic%2C700italic%2C900italic%7CMerriweather%3A300%2C400%2C700%2C900%2C300italic%2C400italic%2C700italic%2C900italic%7CPlayfair+Display%3A400%2C700%2C900%2C400italic%2C700italic%2C900italic&amp;subset=latin&amp;ver=1465975237' type='text/css' media='all' />
       <script type='text/javascript' src='js/jquery/jqueryb8ff.js?ver=1.12.4'></script>
       <script type='text/javascript' src='js/jquery/jquery-migrate.min330a.js?ver=1.4.1'></script>
@@ -524,7 +524,7 @@
                               </div>
                            </div>
                         </div>
-                        <div  class="secsion clearfix "  style ="margin-bottom:5em">
+                        <div  class="secsion clearfix "  style ="margin-bottom:2em">
                            <div class="container-fluid clearfix">
                               <div class="row ">
                                  <div class="vc_col-sm-12 wpb_column vc_column_container    " style="">
@@ -561,7 +561,7 @@
                                        <div class="wrapper-content">
                                           <div class="row cms-fancyboxes-wraper template-cms_fancybox_single--layout2 content-align-default " id="cms-fancy-box-single-4"
                                              style="
-                                             background-image: url(uploads/2015/08/box4.jpg);background-size: cover;background-position: center top;background-repeat: no-repeat;
+                                             background-image: url(images/gb.png);background-size: cover;background-position: center top;background-repeat: no-repeat;
                                              min-height:438px;
                                              ">
                                              <div class="cms-fancyboxes-body">

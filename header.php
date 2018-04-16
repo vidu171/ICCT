@@ -29,7 +29,7 @@
                      <div class="woo-cart">
                         <div class="widget_cart_search_wrap">
                            <div class="header">
-                              <a href="javascript:void(0)" class="icon_cart_wrap" data-display=".shopping_cart_dropdown" data-no_display=".widget_searchform_content"><i class="fa fa-info" style="color:#000"></i><span class="cart_total"> 0</span></a>
+                              <a href="javascript:void(0)" class="icon_cart_wrap" data-display=".shopping_cart_dropdown" data-no_display=".widget_searchform_content"><i class="fa fa-info" style="color:#000"></i><span class="cart_total"> 4</span></a>
                            </div>
                            <div class="shopping_cart_dropdown">
                               <div class="shopping_cart_dropdown_inner">
@@ -89,6 +89,8 @@
                      </div>
                   </div>
                </div>
+
+
             </div>
          </div>
       </div>
