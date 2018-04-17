@@ -29,7 +29,7 @@
                      <div class="woo-cart">
                         <div class="widget_cart_search_wrap">
                            <div class="header">
-                              <a href="javascript:void(0)" class="icon_cart_wrap" data-display=".shopping_cart_dropdown" data-no_display=".widget_searchform_content"><i class="fa fa-info" style="color:#000"></i><span class="cart_total"> 4</span></a>
+                              <a href="javascript:void(0)" class="icon_cart_wrap" id = "clicker" data-display=".shopping_cart_dropdown" data-no_display=".widget_searchform_content"><i class="fa fa-info" style="color:#000"></i><span class="cart_total"> 4</span></a>
                            </div>
                            <div class="shopping_cart_dropdown">
                               <div class="shopping_cart_dropdown_inner">
@@ -63,7 +63,7 @@
 
                                  </li>
                                  <li id="menu-item-2816" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children no_group menu-item-2816" data-depth="0">
-                                    <a href="#"><span class="menu-title">Track</span></a>
+                                    <a href="tracks.php"><span class="menu-title">Track</span></a>
                                     <ul class='standar-dropdown standard autodrop_submenu sub-menu' style="width:200px;">
                                        <li id="menu-item-2815" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-2815" data-depth="1"><a href="about-me/index.html"><span class="menu-title">Track 1</span></a></li>
                                        <li id="menu-item-2817" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-2817" data-depth="1"><a href="service/index.html"><span class="menu-title">Track 2</span></a></li>
