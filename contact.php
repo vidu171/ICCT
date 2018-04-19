@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-US">
-   <title>Tracks | ICCT'19</title>
+   <title>Contacts | ICCT'19</title>
    <?php include('head.php')?>
    <body class="home page-template-default page page-id-39 wpb-js-composer js-comp-ver-4.12 vc_responsive">
       <div id="page" class="cs-wide">
@@ -24,7 +24,9 @@
                                   <div class="vc_column-inner clearfix ">
                                      <div class="wrapper-content">
                                         <div class="cs_extra_map" style="height:450px">
-                                           <div class="map-render" data-address='New York, United States' data-marker='%7B%22markercoordinate%22%3A%2240.730610%20%2C%20-74.0059700%22%2C%22markerdesc%22%3A%22%3Cdiv%20class%3D%5C%22info-content%5C%22%3E%3Ch5%3ENew%20York%3C%5C%2Fh5%3E%3Cspan%3E%3C%5C%2Fspan%3E%3C%5C%2Fdiv%3E%22%2C%22markericon%22%3A%22http%3A%5C%2F%5C%2Fbolina.zooka.io%5C%2Fwp-content%5C%2Fuploads%5C%2F2015%5C%2F09%5C%2Flocation.png%22%7D' data-coordinate='40.730610 , -74.0059700' data-type='ROADMAP' data-zoom='13' data-template='JTVCJTdCJTIyZmVhdHVyZVR5cGUlMjIlM0ElMjJsYW5kc2NhcGUlMjIlMkMlMjJzdHlsZXJzJTIyJTNBJTVCJTdCJTIyc2F0dXJhdGlvbiUyMiUzQS0xMDAlN0QlMkMlN0IlMjJsaWdodG5lc3MlMjIlM0E2NSU3RCUyQyU3QiUyMnZpc2liaWxpdHklMjIlM0ElMjJvbiUyMiU3RCU1RCU3RCUyQyU3QiUyMmZlYXR1cmVUeXBlJTIyJTNBJTIycG9pJTIyJTJDJTIyc3R5bGVycyUyMiUzQSU1QiU3QiUyMnNhdHVyYXRpb24lMjIlM0EtMTAwJTdEJTJDJTdCJTIybGlnaHRuZXNzJTIyJTNBNTElN0QlMkMlN0IlMjJ2aXNpYmlsaXR5JTIyJTNBJTIyc2ltcGxpZmllZCUyMiU3RCU1RCU3RCUyQyU3QiUyMmZlYXR1cmVUeXBlJTIyJTNBJTIycm9hZC5oaWdod2F5JTIyJTJDJTIyc3R5bGVycyUyMiUzQSU1QiU3QiUyMnNhdHVyYXRpb24lMjIlM0EtMTAwJTdEJTJDJTdCJTIydmlzaWJpbGl0eSUyMiUzQSUyMnNpbXBsaWZpZWQlMjIlN0QlNUQlN0QlMkMlN0IlMjJmZWF0dXJlVHlwZSUyMiUzQSUyMnJvYWQuYXJ0ZXJpYWwlMjIlMkMlMjJzdHlsZXJzJTIyJTNBJTVCJTdCJTIyc2F0dXJhdGlvbiUyMiUzQS0xMDAlN0QlMkMlN0IlMjJsaWdodG5lc3MlMjIlM0EzMCU3RCUyQyU3QiUyMnZpc2liaWxpdHklMjIlM0ElMjJvbiUyMiU3RCU1RCU3RCUyQyU3QiUyMmZlYXR1cmVUeXBlJTIyJTNBJTIycm9hZC5sb2NhbCUyMiUyQyUyMnN0eWxlcnMlMjIlM0ElNUIlN0IlMjJzYXR1cmF0aW9uJTIyJTNBLTEwMCU3RCUyQyU3QiUyMmxpZ2h0bmVzcyUyMiUzQTQwJTdEJTJDJTdCJTIydmlzaWJpbGl0eSUyMiUzQSUyMm9uJTIyJTdEJTVEJTdEJTJDJTdCJTIyZmVhdHVyZVR5cGUlMjIlM0ElMjJ0cmFuc2l0JTIyJTJDJTIyc3R5bGVycyUyMiUzQSU1QiU3QiUyMnNhdHVyYXRpb24lMjIlM0EtMTAwJTdEJTJDJTdCJTIydmlzaWJpbGl0eSUyMiUzQSUyMnNpbXBsaWZpZWQlMjIlN0QlNUQlN0QlMkMlN0IlMjJmZWF0dXJlVHlwZSUyMiUzQSUyMmFkbWluaXN0cmF0aXZlLnByb3ZpbmNlJTIyJTJDJTIyc3R5bGVycyUyMiUzQSU1QiU3QiUyMnZpc2liaWxpdHklMjIlM0ElMjJvZmYlMjIlN0QlNUQlN0QlMkMlN0IlMjJmZWF0dXJlVHlwZSUyMiUzQSUyMndhdGVyJTIyJTJDJTIyZWxlbWVudFR5cGUlMjIlM0ElMjJsYWJlbHMlMjIlMkMlMjJzdHlsZXJzJTIyJTNBJTVCJTdCJTIydmlzaWJpbGl0eSUyMiUzQSUyMm9uJTIyJTdEJTJDJTdCJTIybGlnaHRuZXNzJTIyJTNBLTI1JTdEJTJDJTdCJTIyc2F0dXJhdGlvbiUyMiUzQS0xMDAlN0QlNUQlN0QlMkMlN0IlMjJmZWF0dXJlVHlwZSUyMiUzQSUyMndhdGVyJTIyJTJDJTIyZWxlbWVudFR5cGUlMjIlM0ElMjJnZW9tZXRyeSUyMiUyQyUyMnN0eWxlcnMlMjIlM0ElNUIlN0IlMjJodWUlMjIlM0ElMjIlMjNmZmZmMDAlMjIlN0QlMkMlN0IlMjJsaWdodG5lc3MlMjIlM0EtMjUlN0QlMkMlN0IlMjJzYXR1cmF0aW9uJTIyJTNBLTk3JTdEJTVEJTdEJTVE' data-controls='%7B%22scrollwheel%22%3A0%2C%22pancontrol%22%3Afalse%2C%22zoomcontrol%22%3Afalse%2C%22scalecontrol%22%3Afalse%2C%22maptypecontrol%22%3Afalse%2C%22streetviewcontrol%22%3Afalse%2C%22overviewmapcontrol%22%3Afalse%2C%22infoclick%22%3Afalse%2C%22infowidth%22%3A%22200%22%2C%22style%22%3A%22custom%22%7D' style="width:auto;height: 450px"></div>
+                                           <div class="map-render" data-address='Manipal University, Jaipur'  data-coordinate='26.843540, 75.5684253' data-type='ROADMAP' data-zoom='14'
+                                           data-marker='%7B%22markercoordinate%22%3A%2226.8435407%20%2C%2075.5684253%22%2C%22markerdesc%22%3A%22%3Cdiv%20class%3D%5C%22info-content%5C%22%3E%3Ch5%3EManipal%20Unniversity%3C%5C%2Fh5%3E%3Cspan%3E%3C%5C%2Fspan%3E%3C%5C%2Fdiv%3E%22%2C%22markericon%22%3A%22http%3A%5C%2F%5C%2Fbolina.zooka.io%5C%2Fwp-content%5C%2Fuploads%5C%2F2015%5C%2F09%5C%2Flocation.png%22%7D'
+                                            data-template='JTVCJTdCJTIyZmVhdHVyZVR5cGUlMjIlM0ElMjJsYW5kc2NhcGUlMjIlMkMlMjJzdHlsZXJzJTIyJTNBJTVCJTdCJTIyc2F0dXJhdGlvbiUyMiUzQS0xMDAlN0QlMkMlN0IlMjJsaWdodG5lc3MlMjIlM0E2NSU3RCUyQyU3QiUyMnZpc2liaWxpdHklMjIlM0ElMjJvbiUyMiU3RCU1RCU3RCUyQyU3QiUyMmZlYXR1cmVUeXBlJTIyJTNBJTIycG9pJTIyJTJDJTIyc3R5bGVycyUyMiUzQSU1QiU3QiUyMnNhdHVyYXRpb24lMjIlM0EtMTAwJTdEJTJDJTdCJTIybGlnaHRuZXNzJTIyJTNBNTElN0QlMkMlN0IlMjJ2aXNpYmlsaXR5JTIyJTNBJTIyc2ltcGxpZmllZCUyMiU3RCU1RCU3RCUyQyU3QiUyMmZlYXR1cmVUeXBlJTIyJTNBJTIycm9hZC5oaWdod2F5JTIyJTJDJTIyc3R5bGVycyUyMiUzQSU1QiU3QiUyMnNhdHVyYXRpb24lMjIlM0EtMTAwJTdEJTJDJTdCJTIydmlzaWJpbGl0eSUyMiUzQSUyMnNpbXBsaWZpZWQlMjIlN0QlNUQlN0QlMkMlN0IlMjJmZWF0dXJlVHlwZSUyMiUzQSUyMnJvYWQuYXJ0ZXJpYWwlMjIlMkMlMjJzdHlsZXJzJTIyJTNBJTVCJTdCJTIyc2F0dXJhdGlvbiUyMiUzQS0xMDAlN0QlMkMlN0IlMjJsaWdodG5lc3MlMjIlM0EzMCU3RCUyQyU3QiUyMnZpc2liaWxpdHklMjIlM0ElMjJvbiUyMiU3RCU1RCU3RCUyQyU3QiUyMmZlYXR1cmVUeXBlJTIyJTNBJTIycm9hZC5sb2NhbCUyMiUyQyUyMnN0eWxlcnMlMjIlM0ElNUIlN0IlMjJzYXR1cmF0aW9uJTIyJTNBLTEwMCU3RCUyQyU3QiUyMmxpZ2h0bmVzcyUyMiUzQTQwJTdEJTJDJTdCJTIydmlzaWJpbGl0eSUyMiUzQSUyMm9uJTIyJTdEJTVEJTdEJTJDJTdCJTIyZmVhdHVyZVR5cGUlMjIlM0ElMjJ0cmFuc2l0JTIyJTJDJTIyc3R5bGVycyUyMiUzQSU1QiU3QiUyMnNhdHVyYXRpb24lMjIlM0EtMTAwJTdEJTJDJTdCJTIydmlzaWJpbGl0eSUyMiUzQSUyMnNpbXBsaWZpZWQlMjIlN0QlNUQlN0QlMkMlN0IlMjJmZWF0dXJlVHlwZSUyMiUzQSUyMmFkbWluaXN0cmF0aXZlLnByb3ZpbmNlJTIyJTJDJTIyc3R5bGVycyUyMiUzQSU1QiU3QiUyMnZpc2liaWxpdHklMjIlM0ElMjJvZmYlMjIlN0QlNUQlN0QlMkMlN0IlMjJmZWF0dXJlVHlwZSUyMiUzQSUyMndhdGVyJTIyJTJDJTIyZWxlbWVudFR5cGUlMjIlM0ElMjJsYWJlbHMlMjIlMkMlMjJzdHlsZXJzJTIyJTNBJTVCJTdCJTIydmlzaWJpbGl0eSUyMiUzQSUyMm9uJTIyJTdEJTJDJTdCJTIybGlnaHRuZXNzJTIyJTNBLTI1JTdEJTJDJTdCJTIyc2F0dXJhdGlvbiUyMiUzQS0xMDAlN0QlNUQlN0QlMkMlN0IlMjJmZWF0dXJlVHlwZSUyMiUzQSUyMndhdGVyJTIyJTJDJTIyZWxlbWVudFR5cGUlMjIlM0ElMjJnZW9tZXRyeSUyMiUyQyUyMnN0eWxlcnMlMjIlM0ElNUIlN0IlMjJodWUlMjIlM0ElMjIlMjNmZmZmMDAlMjIlN0QlMkMlN0IlMjJsaWdodG5lc3MlMjIlM0EtMjUlN0QlMkMlN0IlMjJzYXR1cmF0aW9uJTIyJTNBLTk3JTdEJTVEJTdEJTVE' data-controls='%7B%22scrollwheel%22%3A0%2C%22pancontrol%22%3Afalse%2C%22zoomcontrol%22%3Afalse%2C%22scalecontrol%22%3Afalse%2C%22maptypecontrol%22%3Afalse%2C%22streetviewcontrol%22%3Afalse%2C%22overviewmapcontrol%22%3Afalse%2C%22infoclick%22%3Afalse%2C%22infowidth%22%3A%22200%22%2C%22style%22%3A%22custom%22%7D' style="width:auto;height: 450px"></div>
                                         </div>
                                      </div>
                                   </div>
@@ -58,34 +60,11 @@
                                         <div class="vc_empty_space"  style="height: 25px" ><span class="vc_empty_space_inner"></span></div>
                                         <div class="wpb_text_column wpb_content_element ">
                                            <div class="wpb_wrapper clearfix" style="color:#000000;font-size:16px;font-weight:400;">
-                                              <p style="text-align: center;">14 Tottenham Court Road, London, England/<strong> (102) 3456 789</strong> / info@thememove.com</p>
+                                              <p style="text-align: center;">Dehmi Kalan, Jaipur-Ajmer Expressway, Near GVK Toll Plaza, Jaipur, Rajasthan 303007</p>
                                            </div>
                                         </div>
-                                        <div class="vc_empty_space"  style="height: 25px" ><span class="vc_empty_space_inner"></span></div>
-                                        <div class="cms-social-wraper template-cms_social center" id="cms-social">
-                                           <ul class="icon-list">
-                                              <li class="fancybox-item clearfix">
-                                                 <span class="fancybox-icon cms-pop">
-                                                 <a href="#"><i class="fa fa-facebook"></i></a>
-                                                 </span>
-                                              </li>
-                                              <li class="fancybox-item clearfix">
-                                                 <span class="fancybox-icon cms-pop">
-                                                 <a href="#"><i class="fa fa-twitter"></i></a>
-                                                 </span>
-                                              </li>
-                                              <li class="fancybox-item clearfix">
-                                                 <span class="fancybox-icon cms-pop">
-                                                 <a href="#"><i class="fa fa-pinterest"></i></a>
-                                                 </span>
-                                              </li>
-                                              <li class="fancybox-item clearfix">
-                                                 <span class="fancybox-icon cms-pop">
-                                                 <a href="#"><i class="fa fa-instagram"></i></a>
-                                                 </span>
-                                              </li>
-                                           </ul>
-                                        </div>
+
+
                                         <div class="vc_empty_space"  style="height: 63px" ><span class="vc_empty_space_inner"></span></div>
                                         <div role="form" class="wpcf7" id="wpcf7-f780-p756-o1" lang="en-US" dir="ltr">
                                            <div class="screen-reader-response"></div>
@@ -143,8 +122,12 @@
           </div>
           <!-- #primary -->
        </div>
-   
+
       <!--some extra scripts and CSS needed for working -->
+      <?php include('footer.php') ?>
       <?php include ('extras.php') ?>
+
+      <script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyAbKpJA3ueqmTCu3PUfGLbJdoE-CLaMjhs&amp;sensor=false&amp;ver=3.0.0'></script>
+      <script type='text/javascript' src='themes/inc/elements/googlemap/cms.googlemap6e0e.js?ver=3.0.0'></script>
    </body>
 </html>

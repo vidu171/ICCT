@@ -37,8 +37,8 @@ jQuery(function($) {
 
 						var mapOptions = {
 							zoom : parseInt($(this).attr('data-zoom')),
-							center : new google.maps.LatLng(40.7143528,
-									-74.0059731),
+							center : new google.maps.LatLng(26.8435407,
+									75.5684253),
 							mapTypeId : map_type,
 							scrollwheel : controls.scrollwheel,
 							panControl : controls.pancontrol,

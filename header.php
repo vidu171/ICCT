@@ -35,7 +35,7 @@
                               </ul>
                            </li>
                            <li id="menu-item-758" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-758" data-depth="0"><a href="contact-us/index.html"><span class="menu-title">Sponsors</span></a></li>
-                           <li id="menu-item-758" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-758" data-depth="0"><a href="contact-us/index.html"><span class="menu-title">Contact</span></a></li>
+                           <li id="menu-item-758" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-758" data-depth="0"><a href="contact.php"><span class="menu-title">Contact</span></a></li>
                         </ul>
                      </div>
                   </nav>
@@ -93,7 +93,7 @@
                                  <li id="menu-item-2824" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-2824" data-depth="0"><a href="contact-us/index.html"><span class="menu-title">Publication</span></a></li>
                                  <li id="menu-item-2824" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-2824" data-depth="0"><a href="contact-us/index.html"><span class="menu-title">Committees</span></a></li>
                                  <li id="menu-item-2824" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-2824" data-depth="0"><a href="contact-us/index.html"><span class="menu-title">Sponsors</span></a></li>
-                                 <li id="menu-item-2824" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-2824" data-depth="0"><a href="contact-us/index.html"><span class="menu-title">Contact Us</span></a></li>
+                                 <li id="menu-item-2824" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-2824" data-depth="0"><a href="contact.php"><span class="menu-title">Contact Us</span></a></li>
                               </ul>
                            </div>
                            <span class="close-menu"><i class="fa fa-times"></i></span>
