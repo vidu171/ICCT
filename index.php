@@ -6,7 +6,10 @@
 
    <body class="home page-template-default page page-id-39 wpb-js-composer js-comp-ver-4.12 vc_responsive" onload=" setTimeout(showNotification, 3000);">
       <div id="page" class="cs-wide">
-         <?php include('header.php') ?>
+         <?php
+                $tabToSelect = 1;
+                include('header.php');
+         ?>
 
         <!-- Main Content starts here -->
          <div id="main">

@@ -4,7 +4,9 @@
    <?php include('head.php')?>
    <body class="home page-template-default page page-id-39 wpb-js-composer js-comp-ver-4.12 vc_responsive">
       <div id="page" class="cs-wide">
-         <?php include('header.php') ?>
+         <?php
+        $tabToSelect = 7;
+         include('header.php') ?>
          <!-- image url will be the url of the background image track name will add a breadcrumb -->
          <?php
             $imageUrl = "images/page-title1.jpg";

@@ -1,5 +1,10 @@
+
+
+
+
+
 <header id="masthead" class="site-header">
-   <!--Header-->
+   <!--Header current-menu-ancestor-->
    <div id="cshero-header" class="cshero-main-header v1     ">
       <div class="section wrap-navigation">
          <div class="container-fluid padding-lr-106">
@@ -14,18 +19,18 @@
                   <nav id="site-navigation" class="main-navigation">
                      <div class="menu-menu-navigation-container">
                         <ul id="menu-menu-navigation" class="nav-menu menu-main-menu">
-                           <li id="menu-item-511" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor menu-item-has-children no_group menu-item-511" data-depth="0">
+                           <li id="menu-item-511" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-has-children no_group menu-item-511 element1" data-depth="0">
                               <a href="index.php"><span class="menu-title">Home</span></a>
                            </li>
-                           <li id="menu-item-58" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children no_group menu-item-58" data-depth="0">
+                           <li id="menu-item-58" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children no_group menu-item-58 element2" data-depth="0">
                               <a href="track.php"><span class="menu-title">Tracks</span></a>
 
                            </li>
-                           <li id="menu-item-743" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children no_group menu-item-743" data-depth="0">
+                           <li id="menu-item-743" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children no_group menu-item-743 element3" data-depth="0">
                               <a href="#"><span class="menu-title">Registration</span></a>
                            </li>
-                           <li id="menu-item-2746" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-2746" data-depth="0"><a href="shop/index.html"><span class="menu-title">Publication</span></a></li>
-                           <li id="menu-item-1158" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children no_group menu-item-1158" data-depth="0">
+                           <li id="menu-item-2746" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-2746 element4" data-depth="0"><a href="shop/index.html"><span class="menu-title">Publication</span></a></li>
+                           <li id="menu-item-1158" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children no_group menu-item-1158 element5" data-depth="0">
                               <a href="#"><span class="menu-title">Committee</span></a>
                               <ul class='standar-dropdown standard autodrop_submenu sub-menu' style="width:200px;">
                                  <li id="menu-item-861" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-861" data-depth="1"><a href="blog/index.html"><span class="menu-title">Blog no sidebar</span></a></li>
@@ -34,8 +39,8 @@
                                  <li id="menu-item-1167" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-1167" data-depth="1"><a href="blog-standard/index.html"><span class="menu-title">Blog standard</span></a></li>
                               </ul>
                            </li>
-                           <li id="menu-item-758" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-758" data-depth="0"><a href="contact-us/index.html"><span class="menu-title">Sponsors</span></a></li>
-                           <li id="menu-item-758" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-758" data-depth="0"><a href="contact.php"><span class="menu-title">Contact</span></a></li>
+                           <li id="menu-item-758" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-758 element6" data-depth="0"><a href="contact-us/index.html"><span class="menu-title">Sponsors</span></a></li>
+                           <li id="menu-item-758" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-758 element7" data-depth="0"><a href="contact.php"><span class="menu-title">Contact</span></a></li>
                         </ul>
                      </div>
                   </nav>
@@ -106,3 +111,12 @@
       </div>
    </div>
 </header>
+
+
+<!--Simple Script to select the current Tab -->
+<script>
+var tabToSelect = parseInt(<?php echo $tabToSelect ?>);
+console.log("element"+tabToSelect);
+var currentTab = document.getElementsByClassName("element"+tabToSelect);
+currentTab[0].className += " current-menu-ancestor";
+</script>

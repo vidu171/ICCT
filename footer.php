@@ -15,7 +15,7 @@
                   <div class="textwidget">
                      <span class="copyright">Organised by Manipal University Jaipur</span>
                      <div class="credits">
-                        Developed by :  Siddharth Jaidka
+                        Crafted with <i class="fa fa-heart"></i>  Siddharth Jaidka
                      </div>
                      <br>
                      <div class="count" style="font-size: 16px;">Page Views <strong> 9580</strong></div>
