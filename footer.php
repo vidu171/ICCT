@@ -67,18 +67,17 @@
                                       <h4 class="widget-title">Suscribe</h3>
                                       <div class="clear clearFix"></div>
                                       <div class="widgetGuts">
-                                         <form action="#" method="post" id="frm-subscriptionFrontsimplesubscribe-3">
+                                         <form action="#" method="post" id="frm-subscriptionFrontsimplesubscribe-3" style="width:90%">
                                             <dl>
-                                               <dt><label for="frm-email" class="required">Your e-mail address</label></dt>
+                                               <dt><label for="frm-email" class="required" >Your e-mail address</label></dt>
                                                <dd><input type="text" name="email" id="frm-email" required data-nette-rules='[{"op":":filled","msg":"E-mail address is requried."},{"op":":email","msg":"Your e-mail address must be valid."}]' value="" class="text"></dd>
                                                <dt></dt>
                                                <dd><input type="submit" name="_submit" class="subscribeButton button" value="Subscribe"></dd>
                                             </dl>
                                             <div>
-                                               <input type="hidden" name="_form_" value="subscriptionFrontsimplesubscribe-3"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-                                            </div>
+                                                                                          </div>
                                          </form>
-                                         <p style="max-width:180px;font-size: 10px;display:none">By signing up, you agree to our <a href="http://www.readygraph.com/tos">Terms of Service</a> and <a href='http://readygraph.com/privacy/'>Privacy Policy</a>.</p>
+
                                          <div class="clear clearFix"></div>
                                       </div>
                                       <div class="clear clearFix"></div>
