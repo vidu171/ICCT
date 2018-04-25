@@ -1,6 +1,3 @@
-
-
-
 <div id="page-title" class="page-title" style="background-image: url(<?php echo $imageUrl?>);">
 <div class="container-fluid">
   <div class="page-title-overlay" style="background:rgba(0, 0, 0, 0.2)"></div>

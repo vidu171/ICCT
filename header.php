@@ -1,8 +1,3 @@
-
-
-
-
-
 <header id="masthead" class="site-header">
    <!--Header current-menu-ancestor-->
    <div id="cshero-header" class="cshero-main-header v1     ">
