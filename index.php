@@ -86,7 +86,7 @@
                                                    responsiveLevels:[1240,1240,1240,480],
                                                    visibilityLevels:[1240,1240,1240,480],
                                                    gridwidth:[1920,1920,1920,1920],
-                                                   gridheight:[990,980,900,1000],
+                                                   gridheight:[500, 868, 960, 720],
                                                    lazyType:"none",
                                                    shadow:0,
                                                    spinner:"spinner0",
@@ -118,13 +118,51 @@
                               </div>
                            </div>
                         </div>
+
+                        <div class="vc_custom_heading" >
+                           <h2 style="color: #010101;text-align: center;font-family:Lato;font-weight:900;font-style:normal;letter-spacing:2pt;,argin-top:0.2em" >SPONSORS</h2>
+                           <div class="line_bottom_heading" style="width:150px;
+                              height:1px;
+                              margin:30px 0 0 0;
+                              background:#ffbf00;
+                              position: relative;
+                              bottom: 0;
+                              left: 50%;
+                              -webkit-transform: translateX(-50%);
+                              -khtml-transform: translateX(-50%);
+                              -moz-transform: translateX(-50%);
+                              -ms-transform: translateX(-50%);
+                              -o-transform: translateX(-50%);
+                              transform: translateX(-50%);"></div>
+                        </div>
+
+                        <div class="cms-carousel template-cms_carousel--clients " id="cms-carousel">
+                           <div class="cms-carousel-item">
+                              <div class="cms-grid-media  has-thumbnail"><img class="img-responsive" src="images/client/client6.png" alt=""></div>
+                           </div>
+                           <div class="cms-carousel-item">
+                              <div class="cms-grid-media  has-thumbnail"><img class="img-responsive" src="images/client/client5.png" alt=""></div>
+                           </div>
+                           <div class="cms-carousel-item">
+                              <div class="cms-grid-media  has-thumbnail"><img class="img-responsive" src="images/client/client4.png" alt=""></div>
+                           </div>
+                           <div class="cms-carousel-item">
+                              <div class="cms-grid-media  has-thumbnail"><img class="img-responsive" src="images/client/client3.png" alt=""></div>
+                           </div>
+                           <div class="cms-carousel-item">
+                              <div class="cms-grid-media  has-thumbnail"><img class="img-responsive" src="images/client/client2.png" alt=""></div>
+                           </div>
+                           <div class="cms-carousel-item">
+                              <div class="cms-grid-media  has-thumbnail"><img class="img-responsive" src="images/client/client1.png" alt=""></div>
+                           </div>
+                        </div>
                         <div  class="secsion clearfix "  style ="">
                            <div class="container-fluid clearfix">
                               <div class="row ">
                                  <div class="vc_col-sm-12 wpb_column vc_column_container    " style="">
                                     <div class="vc_column-inner clearfix ">
                                        <div class="wrapper-content">
-                                          <div class="vc_empty_space"  style="height: 102px" ><span class="vc_empty_space_inner"></span></div>
+                                          <div class="vc_empty_space"  style="height: 72px" ><span class="vc_empty_space_inner"></span></div>
                                           <div class="vc_custom_heading" >
                                              <h2 style="text-align: center;font-family:Lato;font-weight:900;font-style:normal;letter-spacing:2pt" >Call for Special Issue</h2>
                                              <div class="line_bottom_heading" style="width:150px;
@@ -663,56 +701,7 @@
                               </div>
                            </div>
                         </div>
-                        <div  class="secsion clearfix  vc_custom_1448212797195"  style ="background-attachment:fixed;background-size:cover;background-color:#333333;">
-                           <div class="container clearfix">
-                              <div class="row ">
-                                 <div class="vc_col-sm-12 wpb_column vc_column_container    " style="">
-                                    <div class="vc_column-inner clearfix ">
-                                       <div class="wrapper-content">
-                                          <div class="vc_custom_heading" >
-                                             <h2 style="color: #e2e2e2;text-align: center;font-family:Lato;font-weight:900;font-style:normal;letter-spacing:2pt" >SPONSORS</h2>
-                                             <div class="line_bottom_heading" style="width:150px;
-                                                height:3px;
-                                                margin:30px 0 0 0;
-                                                background:#ffbf00;
-                                                position: relative;
-                                                bottom: 0;
-                                                left: 50%;
-                                                -webkit-transform: translateX(-50%);
-                                                -khtml-transform: translateX(-50%);
-                                                -moz-transform: translateX(-50%);
-                                                -ms-transform: translateX(-50%);
-                                                -o-transform: translateX(-50%);
-                                                transform: translateX(-50%);"></div>
-                                          </div>
-                                          <div class="wpb_text_column wpb_content_element  vc_custom_1448213759990">
-                                          </div>
-                                          <div class="cms-carousel template-cms_carousel--clients " id="cms-carousel">
-                                             <div class="cms-carousel-item">
-                                                <div class="cms-grid-media  has-thumbnail"><img class="img-responsive" src="images/client/client6.png" alt=""></div>
-                                             </div>
-                                             <div class="cms-carousel-item">
-                                                <div class="cms-grid-media  has-thumbnail"><img class="img-responsive" src="images/client/client5.png" alt=""></div>
-                                             </div>
-                                             <div class="cms-carousel-item">
-                                                <div class="cms-grid-media  has-thumbnail"><img class="img-responsive" src="images/client/client4.png" alt=""></div>
-                                             </div>
-                                             <div class="cms-carousel-item">
-                                                <div class="cms-grid-media  has-thumbnail"><img class="img-responsive" src="images/client/client3.png" alt=""></div>
-                                             </div>
-                                             <div class="cms-carousel-item">
-                                                <div class="cms-grid-media  has-thumbnail"><img class="img-responsive" src="images/client/client2.png" alt=""></div>
-                                             </div>
-                                             <div class="cms-carousel-item">
-                                                <div class="cms-grid-media  has-thumbnail"><img class="img-responsive" src="images/client/client1.png" alt=""></div>
-                                             </div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
+                      
                         <div  class="secsion clearfix "  style ="">
                            <div class="container clearfix">
                               <div class="row ">
