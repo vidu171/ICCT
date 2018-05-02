@@ -5,7 +5,7 @@
      <div class="container">
         <div id="page-title-text" class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
            <h1 style="color:#fff">
-              Contact                                        <span class="page-title-line" style="background:#ffbf00"></span>
+          <?php echo $pageName ?>                                      <span class="page-title-line" style="background:#ffbf00"></span>
            </h1>
         </div>
         <div id="breadcrumb-text" class="col-xs-12 col-sm-12 col-md-12 col-lg-12"
