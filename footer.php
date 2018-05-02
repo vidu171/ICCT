@@ -1,5 +1,5 @@
 
-<footer class="footer-content clearfix" style="background:#111111"" >
+<footer class="footer-content clearfix" style="background:#111111" >
    <div id="footer-top" class="secsion clearfix">
       <div class="container clearfix">
          <div class="row clearfix">
@@ -10,7 +10,7 @@
                <aside id="text-3" class="widget widget_text">
                   <div class="textwidget"><strong>Address:</strong><br>Manipal University Jaipur <br>Dehmi Kalan, Jaipur-Ajmer Expressway<br> Jaipur, Rajasthan 303007</div>
                </aside>
-               </aside>
+
                <aside id="text-3" class="widget widget_text">
                   <div class="textwidget">
                      <span class="copyright">Organised by Manipal University Jaipur</span>
@@ -23,7 +23,8 @@
                </aside>
             </div>
 
-            <div class="col-xs-12 col-sm-4 footer-top-center">
+            <!--
+               <div class="col-xs-12 col-sm-4 footer-top-center">
 
               <aside id="gallery_widget-2" class="widget widget_gallery_widget">
                  <h4 class="widget-title">Glimpse of ICCT 2017</h4>
@@ -56,11 +57,11 @@
               </aside>
 
 
-                  </div>
+                  </div> -->
 
 
 
-
+<!--
             <div class="col-xs-12 col-sm-4 footer-top-right" >
                           <div id="secondary" class="widget-area">
                                    <aside id="simplesubscribe-3" class="widget widget_simplesubscribe"  style="background: #313131">
@@ -83,7 +84,7 @@
                                       <div class="clear clearFix"></div>
                                    </aside>
                                 </div>
-                       </div>
+                       </div> -->
          </div>
       </div>
    </div>

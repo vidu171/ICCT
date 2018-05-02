@@ -22,9 +22,9 @@
 
                            </li>
                            <li id="menu-item-743" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children no_group menu-item-743 element3" data-depth="0">
-                              <a href="#"><span class="menu-title">Registration</span></a>
+                              <a href="registration.php"><span class="menu-title">Registration</span></a>
                            </li>
-                           <li id="menu-item-2746" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-2746 element4" data-depth="0"><a href="shop/index.html"><span class="menu-title">Publication</span></a></li>
+                           <li id="menu-item-2746" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-2746 element4" data-depth="0"><a href="publication.php"><span class="menu-title">Publication</span></a></li>
                            <li id="menu-item-1158" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children no_group menu-item-1158 element5" data-depth="0">
                               <a href="#"><span class="menu-title">Committee</span></a>
                               <ul class='standar-dropdown standard autodrop_submenu sub-menu' style="width:200px;">

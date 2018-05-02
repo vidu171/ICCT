@@ -1,22 +1,23 @@
 <!DOCTYPE html>
 <html lang="en-US">
    <head>
-      <title>Tracks | ICCT'19</title>
+      <title>Registration | ICCT'19</title>
       <?php include('head.php')?>
    </head>
    <body class="home page-template-default page page-id-39 wpb-js-composer js-comp-ver-4.12 vc_responsive">
       <?php
-         $tabToSelect = 2;
+         $tabToSelect = 4;
          include('header.php') ?>
       <!-- image url will be the url of the background image track name will add a breadcrumb -->
       <!-- Main Content starts here -->
       <?php
          $imageUrl = "images/page-title1.jpg";
-         $pageName= "Tracks";
+         $pageName= "Publication";
          include('titleStrip.php');
          ?>
-      <div class="vc_custom_heading" style="margin-bottom:1em">
-         <h2 style="text-align: center;font-family:Lato;font-weight:900;font-style:normal;letter-spacing:2pt" >ICCT 19: TRACKS</h2>
+         <h4 align="center">To Be Updated </h4>
+      <!-- <div class="vc_custom_heading" style="margin-bottom:1em">
+         <h2 style="text-align: center;font-family:Lato;font-weight:900;font-style:normal;letter-spacing:2pt" >ICCT 19: REGISTRATIONS</h2>
          <div class="line_bottom_heading" style="width:150px;height:3px;margin:30px 0 0 0;background:#ffbf00;position: relative;bottom: 0;left: 50%;-webkit-transform: translateX(-50%);-khtml-transform: translateX(-50%);-moz-transform: translateX(-50%);-ms-transform: translateX(-50%);-o-transform: translateX(-50%);transform: translateX(-50%);">
 
          </div>
@@ -54,14 +55,14 @@
                                             <li> Remote Sensing And GIS</li>
 </ul>
  </p>
-                                    </div>
+                                    </div> -->
 
                                     <!-- <div class="cms-fancyboxes-foot">
                                        <a href="#" class="wpb_button_anone wpb_none btn btn-default cms-bounce-to-bottom" style="">
                                        MORE INFO
                                      </a>
                                     </div> -->
-                                 </div>
+                                 <!-- </div>
                               </div>
                            </div>
                         </div>
@@ -102,13 +103,13 @@
   </ul>
 
                                        </p>
-                                    </div>
+                                    </div> -->
                                     <!-- <div class="cms-fancyboxes-foot">
                                        <a href="#" class="wpb_button_anone wpb_none btn btn-default cms-bounce-to-bottom"  style="background:rgba(0,0,0,0.01);">
                                        MORE INFO
                                      </a>
                                     </div> -->
-                                 </div>
+                                 <!-- </div>
                               </div>
                            </div>
                         </div>
@@ -117,7 +118,7 @@
                </div>
             </div>
          </div>
-      </div>
+      </div> -->
       <!-- <div  class="secsion clearfix  vc_custom_1448271623536"  style ="">
          <div class="container-fluid clearfix">
             <div class="row  same-height">

@@ -14,7 +14,7 @@
    <style id='rs-plugin-settings-inline-css' type='text/css'>
       .tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
    </style>
-
+<link rel='stylesheet' id='wp-bolina-static-css'  href='themes/assets/css/custom.css' type='text/css' media='all' />
    <link rel='stylesheet' id='wp-bolina-static-css'  href='themes/assets/css/static8a54.css' type='text/css' media='all' />
    <link rel='stylesheet' id='default-template-css'  href='plugins/simple-subscribe/extension/readygraph/assets/css/default-popupd714.css?ver=4.7.10' type='text/css' media='all' />
    <link rel='stylesheet' id='woocommerce-layout-css'  href='plugins/woocommerce/assets/css/woocommerce-layout72e6.css?ver=2.6.4' type='text/css' media='all' />
