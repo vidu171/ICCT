@@ -1,7 +1,7 @@
-<head>
+
    <meta charset="UTF-8"/>
    <meta name="viewport" content="initial-scale=1,width=device-width">
-   
+
    <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
 
    <script type="text/javascript">
@@ -64,4 +64,3 @@
    <noscript>
       <style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style>
    </noscript>
-</head>
