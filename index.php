@@ -4,7 +4,7 @@
 <title>Home | ICCT'19</title>
   <?php include('head.php')?>
 
-   <body class="home page-template-default page page-id-39 wpb-js-composer js-comp-ver-4.12 vc_responsive" onload=" setTimeout(showNotification, 3000);">
+   <body class="home page-template-default page page-id-39 wpb-js-composer js-comp-ver-4.12 vc_responsive" onload=" setTimeout(showNotification, 2000);">
       <div id="page" class="cs-wide">
          <?php
                 $tabToSelect = 1;
@@ -118,7 +118,7 @@
                               </div>
                            </div>
                         </div>
-
+                        <!--
                         <div class="vc_custom_heading" >
                            <h2 style="color: #010101;text-align: center;font-family:Lato;font-weight:900;font-style:normal;letter-spacing:2pt;,argin-top:0.2em" >SPONSORS</h2>
                            <div class="line_bottom_heading" style="width:150px;
@@ -227,6 +227,8 @@
                               </div>
                            </div>
                         </div>
+
+                      -->
                         <div  class="secsion clearfix  vc_custom_1443147497373"  style ="">
                            <div class="container clearfix">
                               <div class="row ">
@@ -247,6 +249,7 @@
                                                          <span class="overlay" style="background:#ffbf00;"></span>
                                                       </div>
                                                    </div>
+
                                                    <h3 class="facybox-title" style="
                                                       ">
                                                       Track 1
@@ -303,7 +306,7 @@
                                                    </div>
                                                    <h3 class="facybox-title" style="
                                                       ">
-                                                      About ICCT 19
+                                                      Glimpse of ICCT'17
                                                    </h3>
                                                 </div>
                                              </div>
@@ -314,196 +317,8 @@
                               </div>
                            </div>
                         </div>
-                        <div  class="secsion clearfix "  style ="margin-top:-9em;margin-bottom:5em">
-                           <div class="container-fluid clearfix">
-                              <div class="row ">
-                                 <div class="vc_col-sm-12 wpb_column vc_column_container    " style="">
-                                    <div class="vc_column-inner clearfix ">
-                                       <div class="wrapper-content">
-                                          <div class="vc_empty_space"  style="height: 102px" ><span class="vc_empty_space_inner"></span></div>
-                                          <div class="vc_custom_heading" >
-                                             <h2 style="text-align: center;font-family:Lato;font-weight:900;font-style:normal;letter-spacing:2pt" >Speakers</h2>
-                                             <div class="line_bottom_heading" style="width:150px;
-                                                height:3px;
-                                                margin:30px 0 0 0;
-                                                background:#ffbf00;
-                                                position: relative;
-                                                bottom: 0;
-                                                left: 50%;
-                                                -webkit-transform: translateX(-50%);
-                                                -khtml-transform: translateX(-50%);
-                                                -moz-transform: translateX(-50%);
-                                                -ms-transform: translateX(-50%);
-                                                -o-transform: translateX(-50%);
-                                                transform: translateX(-50%);"></div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                        <div  class="secsion clearfix  vc_custom_1453351131776"  style ="">
-                           <div class="container-fluid clearfix">
-                              <div class="row ">
-                                 <div class="vc_col-sm-12 wpb_column vc_column_container  vc_custom_1453351085654   " style="">
-                                    <div class="vc_column-inner clearfix vc_custom_1453351085654">
-                                       <div class="wrapper-content">
-                                          <div class="cms-grid-wraper  template-cms_grid--gallery  style1  no-space"
-                                             id="cms-grid">
-                                             <div class="cms-grid cms-grid cms-grid-masonry">
-                                                <div class="cms-grid-item cms-grid-item col-lg-3 col-md-4 col-sm-6 col-xs-12"
-                                                   data-groups='["all","category-photography"]'>
-                                                   <div class="cms-grid-media  has-thumbnail">
-                                                      <img width="800" height="600" src="images/speaker.jpg" class="attachment-wp-bolina-gallery size-wp-bolina-gallery wp-post-image" alt="" />
-                                                      <div class="popup"><a class="button-popup" href="uploads/2015/08/shutterstock_104386421_supersize-800x450.jpg" data-effect="mfp-zoom-in">+</a></div>
-                                                      <div class="primary-content">
-                                                         <div class="cms-grid-title">
-                                                            <h4>
-                                                               <a href="gallery/women-in-the-dark-concept-12/index.html" style="font-size:14px">
-                                                               Women In The Dark Concept                            </a>
-                                                            </h4>
-                                                         </div>
-                                                         <div class="cms-grid-categories">
-                                                            <a href="gallery_categories/photography/index.html" rel="tag">Photography</a>
-                                                         </div>
-                                                      </div>
-                                                   </div>
-                                                </div>
-                                                <div class="cms-grid-item cms-grid-item col-lg-3 col-md-4 col-sm-6 col-xs-12"
-                                                   data-groups='["all","category-stylish-make-up"]'>
-                                                   <div class="cms-grid-media  has-thumbnail">
-                                                      <img width="800" height="600" src="images/speaker.jpg" class="attachment-wp-bolina-gallery size-wp-bolina-gallery wp-post-image" alt="" />
-                                                      <div class="popup"><a class="button-popup" href="uploads/2015/08/shutterstock_59710015_supersize-800x450.jpg" data-effect="mfp-zoom-in">+</a></div>
-                                                      <div class="primary-content">
-                                                         <div class="cms-grid-title">
-                                                            <h4>
-                                                               <a href="gallery/women-in-the-dark-concept-11/index.html" style="font-size:14px">
-                                                               Women In The Dark Concept                            </a>
-                                                            </h4>
-                                                         </div>
-                                                         <div class="cms-grid-categories">
-                                                            <a href="gallery_categories/stylish-make-up/index.html" rel="tag">Stylish &amp; Make up</a>
-                                                         </div>
-                                                      </div>
-                                                   </div>
-                                                </div>
-                                                <div class="cms-grid-item cms-grid-item col-lg-3 col-md-4 col-sm-6 col-xs-12"
-                                                   data-groups='["all","category-retouching"]'>
-                                                   <div class="cms-grid-media  has-thumbnail">
-                                                      <img width="800" height="600" src="images/speaker.jpg" class="attachment-wp-bolina-gallery size-wp-bolina-gallery wp-post-image" alt="" />
-                                                      <div class="popup"><a class="button-popup" href="uploads/2015/08/shutterstock_79711114_supersize-800x450.jpg" data-effect="mfp-zoom-in">+</a></div>
-                                                      <div class="primary-content">
-                                                         <div class="cms-grid-title">
-                                                            <h4>
-                                                               <a href="gallery/women-in-the-dark-concept-10/index.html" style="font-size:14px">
-                                                               Women In The Dark Concept                            </a>
-                                                            </h4>
-                                                         </div>
-                                                         <div class="cms-grid-categories">
-                                                            <a href="gallery_categories/retouching/index.html" rel="tag">Retouching</a>
-                                                         </div>
-                                                      </div>
-                                                   </div>
-                                                </div>
-                                                <div class="cms-grid-item cms-grid-item col-lg-3 col-md-4 col-sm-6 col-xs-12"
-                                                   data-groups='["all","category-retouching","category-stylish-make-up"]'>
-                                                   <div class="cms-grid-media  has-thumbnail">
-                                                      <img width="800" height="600" src="images/speaker.jpg" class="attachment-wp-bolina-gallery size-wp-bolina-gallery wp-post-image" alt="" />
-                                                      <div class="popup"><a class="button-popup" href="uploads/2015/08/shutterstock_112762954_supersize-800x450.jpg" data-effect="mfp-zoom-in">+</a></div>
-                                                      <div class="primary-content">
-                                                         <div class="cms-grid-title">
-                                                            <h4>
-                                                               <a href="gallery/women-in-the-dark-concept-9/index.html" style="font-size:14px">
-                                                               Women In The Dark Concept                            </a>
-                                                            </h4>
-                                                         </div>
-                                                         <div class="cms-grid-categories">
-                                                            <a href="gallery_categories/retouching/index.html" rel="tag">Retouching</a>/ <a href="gallery_categories/stylish-make-up/index.html" rel="tag">Stylish &amp; Make up</a>
-                                                         </div>
-                                                      </div>
-                                                   </div>
-                                                </div>
-                                                <div class="cms-grid-item cms-grid-item col-lg-3 col-md-4 col-sm-6 col-xs-12"
-                                                   data-groups='["all","category-photography","category-stylish-make-up"]'>
-                                                   <div class="cms-grid-media  has-thumbnail">
-                                                      <img width="800" height="600" src="images/speaker.jpg" class="attachment-wp-bolina-gallery size-wp-bolina-gallery wp-post-image" alt="" />
-                                                      <div class="popup"><a class="button-popup" href="uploads/2015/08/shutterstock_9811654_supersize-800x450.jpg" data-effect="mfp-zoom-in">+</a></div>
-                                                      <div class="primary-content">
-                                                         <div class="cms-grid-title">
-                                                            <h4>
-                                                               <a href="gallery/women-in-the-dark-concept-8/index.html" style="font-size:14px">
-                                                               Women In The Dark Concept                            </a>
-                                                            </h4>
-                                                         </div>
-                                                         <div class="cms-grid-categories">
-                                                            <a href="gallery_categories/photography/index.html" rel="tag">Photography</a>/ <a href="gallery_categories/stylish-make-up/index.html" rel="tag">Stylish &amp; Make up</a>
-                                                         </div>
-                                                      </div>
-                                                   </div>
-                                                </div>
-                                                <div class="cms-grid-item cms-grid-item col-lg-3 col-md-4 col-sm-6 col-xs-12"
-                                                   data-groups='["all","category-retouching"]'>
-                                                   <div class="cms-grid-media  has-thumbnail">
-                                                      <img width="800" height="600" src="images/speaker.jpg" class="attachment-wp-bolina-gallery size-wp-bolina-gallery wp-post-image" alt="" />
-                                                      <div class="popup"><a class="button-popup" href="uploads/2015/08/shutterstock_79509322_huge-800x450.jpg" data-effect="mfp-zoom-in">+</a></div>
-                                                      <div class="primary-content">
-                                                         <div class="cms-grid-title">
-                                                            <h4>
-                                                               <a href="gallery/women-in-the-dark-concept-7/index.html" style="font-size:14px">
-                                                               Women In The Dark Concept                            </a>
-                                                            </h4>
-                                                         </div>
-                                                         <div class="cms-grid-categories">
-                                                            <a href="gallery_categories/retouching/index.html" rel="tag">Retouching</a>
-                                                         </div>
-                                                      </div>
-                                                   </div>
-                                                </div>
-                                                <div class="cms-grid-item cms-grid-item col-lg-3 col-md-4 col-sm-6 col-xs-12"
-                                                   data-groups='["all","category-photography","category-retouching"]'>
-                                                   <div class="cms-grid-media  has-thumbnail">
-                                                      <img width="800" height="600" src="images/speaker.jpg" class="attachment-wp-bolina-gallery size-wp-bolina-gallery wp-post-image" alt="" />
-                                                      <div class="popup"><a class="button-popup" href="uploads/2015/09/shutterstock_93400783_supersize-800x450.jpg" data-effect="mfp-zoom-in">+</a></div>
-                                                      <div class="primary-content">
-                                                         <div class="cms-grid-title">
-                                                            <h4>
-                                                               <a href="gallery/women-in-the-dark-concept-6/index.html" style="font-size:14px">
-                                                               Women In The Dark Concept                            </a>
-                                                            </h4>
-                                                         </div>
-                                                         <div class="cms-grid-categories">
-                                                            <a href="gallery_categories/photography/index.html" rel="tag">Photography</a>/ <a href="gallery_categories/retouching/index.html" rel="tag">Retouching</a>
-                                                         </div>
-                                                      </div>
-                                                   </div>
-                                                </div>
-                                                <div class="cms-grid-item cms-grid-item col-lg-3 col-md-4 col-sm-6 col-xs-12"
-                                                   data-groups='["all","category-retouching"]'>
-                                                   <div class="cms-grid-media  has-thumbnail">
-                                                      <img width="800" height="600" src="images/speaker.jpg" class="attachment-wp-bolina-gallery size-wp-bolina-gallery wp-post-image" alt="" />
-                                                      <div class="popup"><a class="button-popup" href="uploads/2015/08/shutterstock_239356933_supersize-800x450.jpg" data-effect="mfp-zoom-in">+</a></div>
-                                                      <div class="primary-content">
-                                                         <div class="cms-grid-title">
-                                                            <h4>
-                                                               <a href="gallery/women-in-the-dark-concept-5/index.html" style="font-size:14px">
-                                                               Women In The Dark Concept                            </a>
-                                                            </h4>
-                                                         </div>
-                                                         <div class="cms-grid-categories">
-                                                            <a href="gallery_categories/retouching/index.html" rel="tag">Retouching</a>
-                                                         </div>
-                                                      </div>
-                                                   </div>
-                                                </div>
-                                             </div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
+
+
                         <div  class="secsion clearfix "  style ="margin-bottom:2em">
                            <div class="container-fluid clearfix">
                               <div class="row ">
@@ -701,7 +516,7 @@
                               </div>
                            </div>
                         </div>
-                      
+
                         <div  class="secsion clearfix "  style ="">
                            <div class="container clearfix">
                               <div class="row ">
