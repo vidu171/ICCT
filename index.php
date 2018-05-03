@@ -118,6 +118,78 @@
                               </div>
                            </div>
                         </div>
+
+                        <div  class="secsion clearfix "  style ="">
+                            <div class="container-fluid clearfix">
+                                <div class="row ">
+                                    <div class="vc_col-sm-12 wpb_column vc_column_container    " style="">
+                                        <div class="vc_column-inner clearfix ">
+                                            <div class="wrapper-content">
+                                                <div class="vc_empty_space"  style="height: 72px" ><span class="vc_empty_space_inner"></span></div>
+                                                <div class="vc_custom_heading" >
+                                                    <h2 style="text-align: center;font-family:Lato;font-weight:900;font-style:normal;letter-spacing:2pt" >ABOUT THE CONFERRNCE</h2>
+                                                    <div class="line_bottom_heading" style="width:150px;
+                                               height:3px;
+                                               margin:30px 0 0 0;
+                                               background:#ffbf00;
+                                               position: relative;
+                                               bottom: 0;
+                                               left: 50%;
+                                               -webkit-transform: translateX(-50%);
+                                               -khtml-transform: translateX(-50%);
+                                               -moz-transform: translateX(-50%);
+                                               -ms-transform: translateX(-50%);
+                                               -o-transform: translateX(-50%);
+                                               transform: translateX(-50%);"></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div  class="secsion clearfix  vc_custom_1439979297102"  style ="">
+                            <div class="container clearfix">
+                                <div class="row ">
+                                    <div class="vc_col-sm-3 wpb_column vc_column_container    " style="">
+                                        <div class="vc_column-inner clearfix ">
+                                            <div class="wrapper-content">
+                                                <div class="wpb_text_column wpb_content_element ">
+                                                    <div class="wpb_wrapper clearfix" style="">
+                                                        <p></p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="vc_col-sm-6 wpb_column vc_column_container    " style="">
+                                        <div class="vc_column-inner clearfix ">
+                                            <div class="wrapper-content">
+                                                <div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_left-to-right">
+                                                    <div class="wpb_wrapper clearfix" style="font-size:16px;">
+                                                        <p style="text-align: center;">ICCT19 will serve as a platform for knowledge sharing about the recent trends and advancements in the field of networking and high end data handling and how these domains are playing role in research and market development of the industries. It will provide great opportunity for our students and faculties to interact and share ideas with the top-notch in the field face to face. This knowledge sharing may inspire and thrill many young minds and help us bring collaborations and global partners to work together. This will enable us to solve challenging problems in our society so that we may contribute to our world. The whole idea of the forum is to exchange thoughts and ideas, transform those in real time to solve the problems. Conference will also create awareness in students about the importance of scientific research in related fields and synchronizing with product market.
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="vc_col-sm-3 wpb_column vc_column_container    " style="">
+                                        <div class="vc_column-inner clearfix ">
+                                            <div class="wrapper-content">
+                                                <div class="wpb_text_column wpb_content_element ">
+                                                    <div class="wpb_wrapper clearfix" style="">
+                                                        <p></p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
                         <!--
                         <div class="vc_custom_heading" >
                            <h2 style="color: #010101;text-align: center;font-family:Lato;font-weight:900;font-style:normal;letter-spacing:2pt;,argin-top:0.2em" >SPONSORS</h2>
