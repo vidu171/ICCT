@@ -34,11 +34,11 @@
                                     <img class="img-responsive" src="temp/left.jpg" alt="" />
                                  </div>
                                  <div class="fancybox-primary" style="background:#fff;padding:10% 8% 8%;">
-                                    <h3 class="facybox-title" style="font-size:28px;">
+                                    <h3 class="facybox-title" style="font-size:28px;text-align:left">
                                        TRACK1: INTELLIGENT COMMUNICATION
                                         <span class="line-title" style="background: #ffbf00;width: 100px;height: 3px;margin: 22px auto 27px;"></span>
                                     </h3>
-                                    <div class="fancy-box-content"  style="color:#999999;">
+                                    <div class="fancy-box-content"  style="color:#999999;text-align:left">
                                        <p><ul>
                                       <li> Computer Network</li>
                                           <li>   Wireless Network</li>
@@ -78,12 +78,12 @@
                                     <img class="img-responsive" src="temp/right.jpg" alt="" />
                                  </div>
                                  <div class="fancybox-primary" style="background:#ffbf00;padding:10% 8% 8%;">
-                                    <h3 class="facybox-title" style="font-size:28px;">
+                                    <h3 class="facybox-title" style="font-size:28px;text-align:left">
                                        TRACK 2: COMPUTING
 
                                         <span class="line-title" style="background: #000000; width: 100px; height: 3px;margin: 22px auto 27px;"></span>
                                     </h3>
-                                    <div class="fancy-box-content" style="color:#000000;">
+                                    <div class="fancy-box-content" style="color:#000000;text-align:left">
                                        <p>
                                          <ul>
                                           <li> Distributed Computing</li>

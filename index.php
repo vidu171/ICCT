@@ -4,7 +4,7 @@
 <title>Home | ICCT'19</title>
   <?php include('head.php')?>
 
-   <body class="home page-template-default page page-id-39 wpb-js-composer js-comp-ver-4.12 vc_responsive" onload=" setTimeout(showNotification, 3000);">
+   <body class="home page-template-default page page-id-39 wpb-js-composer js-comp-ver-4.12 vc_responsive" onload=" setTimeout(showNotification, 1500);">
       <div id="page" class="cs-wide">
          <?php
                 $tabToSelect = 1;
@@ -127,7 +127,7 @@
                                              <div class="wrapper-content">
                                                  <div class="vc_empty_space"  style="height: 72px" ><span class="vc_empty_space_inner"></span></div>
                                                  <div class="vc_custom_heading" >
-                                                     <h2 style="text-align: center;font-family:Lato;font-weight:900;font-style:normal;letter-spacing:2pt" >ABOUT THE CONFERRNCE</h2>
+                                                     <h2 style="text-align: center;font-family:Lato;font-weight:900;font-style:normal;letter-spacing:2pt" >ABOUT THE CONFERENCE</h2>
                                                      <div class="line_bottom_heading" style="width:150px;
                                                 height:3px;
                                                 margin:30px 0 0 0;
@@ -752,7 +752,7 @@
                                                    <div class="fancy-box-content" style="">
                                                       <p>Jaipur is a major tourist destination in India forming a part of the Golden Triangle.Jaipur was ranked the 7th best place to visit in Asia.Visitor attractions include the Hawa Mahal, Jal Mahal, City Palace, Amer Fort, Jantar Mantar, Nahargarh Fort, Jaigarh Fort, Birla Mandir, Galtaji, Govind Dev Ji Temple, Garh Ganesh Temple, Moti Dungri Ganesh Temple, Sanghiji Jain temple and the Jaipur Zoo.</p>
                                                    </div>
-                                                   
+
                                                 </div>
                                              </div>
                                           </div>
@@ -762,7 +762,7 @@
                               </div>
                            </div>
                         </div>
-                      
+
                         <div  class="secsion clearfix "  style ="">
                            <div class="container clearfix">
                               <div class="row ">
